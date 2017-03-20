@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1089392157186",
+    "firebase_url": "https://smaffe-fe9eb.firebaseio.com",
+    "project_id": "smaffe-fe9eb",
+    "storage_bucket": "smaffe-fe9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089392157186:android:f5a8104360611d1d",
+        "android_client_info": {
+          "package_name": "com.example.denis.qrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089392157186-qupncvgi4l78v952dkeaqkm01oubr91n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.denis.qrapp",
+            "certificate_hash": "e41733c3e2f6f5e29a84849f6c1c9ecffe63544a"
+          }
+        },
+        {
+          "client_id": "1089392157186-3sc1bc40jns072k3knvo6d5rr82c5ka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6R3cDZxdz1jXSR2rZrBFNApkLjSu1j84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089392157186-3sc1bc40jns072k3knvo6d5rr82c5ka7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
